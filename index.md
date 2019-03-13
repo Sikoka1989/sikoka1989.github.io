@@ -2,8 +2,9 @@
 
 - [los15.1](https://drive.google.com/file/d/1vmj55vOcvhRSPOIzXVXVRfVzitehImTj/view?usp=drivesdk)
   <details class="raz9">
-    <summary>Cпрятать спойлер и текст под спойлер</summary>
-  Текст
+    <summary>Что было сделано</summary>
+  изменения от 13.03.19 <br>
+  обновлены исхи и патч безопасности мартовский
   <details class="raz9">
     <summary>Спрятать текст под спойлер</summary>
     Текст
