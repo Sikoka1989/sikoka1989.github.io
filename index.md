@@ -1,6 +1,14 @@
 # Lineage based
 
 - [los15.1](https://drive.google.com/file/d/1vmj55vOcvhRSPOIzXVXVRfVzitehImTj/view?usp=drivesdk)
+<details class="raz9">
+  <summary>Cпрятать спойлер и текст под спойлер</summary>
+  Текст
+  <details class="raz9">
+    <summary>Спрятать текст под спойлер</summary>
+    Текст
+  </details>
+</details>
 - [aicp](https://drive.google.com/file/d/1lk1HP0qemuISOHahMWOa3KPitpB3du0B/view?usp=drivesdk)
 - [aokp](https://drive.google.com/file/d/11hKBO8qkb23KRzruvnNXYRTPWUiMJ9mw/view?usp=drivesdk)
 - [xenonHD](https://drive.google.com/file/d/1hgV0FRLOXCv7H5Rtm5eLZ1vvUbyT5AJc/view?usp=drivesdk)
